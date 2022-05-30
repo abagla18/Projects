@@ -74,9 +74,12 @@ https://drive.google.com/drive/folders/12m3IwmlvrJVdlb-6Vbac9NtRutkEW1nX
 - Highly rated wine from United States comes from provinces in California, Oregon & Washington state.
 - Christina Pickard is one of the top 10 tasters whose review affects the points and price of the wines.
 - From the trend we can definetly conclude that as the rating/points of the wine increases the price also increases gradually.
+- The more stable the climate of the region the better and consistent is the taste of the wine produced over the years. 
 
 ## LinkedIn Post 
 Pending <br>
 
 ## Youtube Video
 Pending <br>
+
+
