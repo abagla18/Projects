@@ -1,4 +1,4 @@
-# Analyzing world's best wine reviews dataset
+# Analyzing World's Best Wine Reviews Dataset
 <img src="drinking-buddies.jpg" alt="drawing" width="300"/>
 
 ## Objective 
@@ -30,24 +30,12 @@ https://drive.google.com/drive/folders/12m3IwmlvrJVdlb-6Vbac9NtRutkEW1nX
 
 ## Tools
 
-**Python,SQL,Tableau**
-
-## Conclusion
-- Worlds most expensive wine "Bordeaux-style Red Blend" comes from "Chateau Petrus" winery in France which is rated 96 points by the tasters and the average price for the same variety is at $51. Depending on the location of the different wineries and the produce that season this wine can range from $2500 and onwards.
-- Switzerland, England, Hungary are few of the top 10 Countries with highest average prices.
-- Worlds most higly rated wine is "Muscadelle" with average points of 94.
-- Christina Pickard is one of the top 10 tasters whose review affects the points and price of the wines.
-- 
-
-## LinkedIn Post 
-
-
-## Youtube Video
+**Python, SQL, Tableau, MS Word**
 
 
 
 ## Introduction To Data
- - The datasets used for this study is available on- (https://drive.google.com/drive/folders/1FkmFVL8wlJmQWP1z52TD8PlhOJhitTyI?usp=sharing)
+ - The datasets used for this study is available on- (https://drive.google.com/drive/folders/12cZeS0mJ9g89-uS80Tk4r65VIPKOXniy)
  - There are 41 unique wine producing countries in this dataset.
  - There are 13 columns from which we will use few to draw conclusions:
    -  country               
@@ -72,8 +60,19 @@ https://drive.google.com/drive/folders/12m3IwmlvrJVdlb-6Vbac9NtRutkEW1nX
   **Step 5**: <br>
   **Step 6**: Loading this dataframe to postgres<br>
   **Step 7**: Connecting postgres to tableau<br>
-  **Step 8**: <br>
-  **Step 9**: <br>
-  **Step 10**: <br>
-## Drawing conclusions
+  **Step 8**: Building worksheets to analyze the data<br>
+  **Step 9**: Creating dashboards to draw conclusions<br>
+  **Step 10**: Building a storyline presention for the stakeholders<br>
 
+
+## Conclusion
+- Worlds most expensive wine "Bordeaux-style Red Blend" comes from "Chateau Petrus" winery in France which is rated 96 points by the tasters and the average price for the same variety is at $51. Depending on the location of the different wineries and the produce that season this wine can range from $2500 and onwards.
+- Switzerland, England, Hungary are few of the top 10 Countries with highest average prices.
+- Worlds most higly rated wine is "Muscadelle" with average points of 94.
+- Christina Pickard is one of the top 10 tasters whose review affects the points and price of the wines.
+- 
+
+## LinkedIn Post 
+
+
+## Youtube Video
