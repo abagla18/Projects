@@ -5,7 +5,7 @@
     The goal of this project is to analyse how the price and points are alloted to the wines based on the various features such as description and climate of the country and provinces wines are produced in.
 
 ## Problem Statement
-    While the wine industry generally has been very proactive about dealing with climate change, from capturing fermentation carbon to trialling new varieties, this is ultimately a political problem. you are required to analyse an effective solution for this.
+    While the wine industry generally has been very proactive about dealing with climate change, from capturing fermentation carbon to trialling new varieties. You are required to analyze an effective solution for this.
 
 ## Dataset
 
@@ -56,8 +56,8 @@ https://drive.google.com/drive/folders/12m3IwmlvrJVdlb-6Vbac9NtRutkEW1nX
   **Step 1**: Load all the neccesary Libraries to perform analysis efficeintly<br>
   **Step 2**: Loading all data in csv format in a Python jupyter file.<br>
   **Step 3**: Creating a dataframe df_wine.<br>
-  **Step 4**: <br>
-  **Step 5**: <br>
+  **Step 4**: Pending <br>
+  **Step 5**: Pending <br>
   **Step 6**: Loading this dataframe to postgres<br>
   **Step 7**: Connecting postgres to tableau<br>
   **Step 8**: Building worksheets to analyze the data<br>
@@ -68,11 +68,15 @@ https://drive.google.com/drive/folders/12m3IwmlvrJVdlb-6Vbac9NtRutkEW1nX
 ## Conclusion
 - Worlds most expensive wine "Bordeaux-style Red Blend" comes from "Chateau Petrus" winery in France which is rated 96 points by the tasters and the average price for the same variety is at $51. Depending on the location of the different wineries and the produce that season this wine can range from $2500 and onwards.
 - Switzerland, England, Hungary are few of the top 10 Countries with highest average prices.
-- Worlds most higly rated wine is "Muscadelle" with average points of 94.
+- Highest average priced wine from United States comes from provinces in Nevada & Vermont
+- Worlds most higly rated wine is "Muscadelle" with average points of 94.33.
+- England, India, Germany are 3 of the top 10 wine producing countries with highly rated wines.
+- Highly rated wine from United States comes from provinces in California, Oregon & Washington state.
 - Christina Pickard is one of the top 10 tasters whose review affects the points and price of the wines.
-- 
+- From the trend we can definetly conclude that as the rating/points of the wine increases the price also increases gradually.
 
 ## LinkedIn Post 
-
+Pending <br>
 
 ## Youtube Video
+Pending <br>
